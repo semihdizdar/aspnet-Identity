@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sd.Project.Identity.API.props" />
+</Project>

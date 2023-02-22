@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sd.Project.Identity.API.props" />
+</Project>
